@@ -1,2 +1,2 @@
-# Jogos Python3
- Jogos em Python
+# Jogos / Apps Python3
+ Jogos e Apps em Python
